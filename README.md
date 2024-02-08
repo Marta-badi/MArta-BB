@@ -1,3 +1,3 @@
-# MArta-BB
+# Marta-BB
 ## Editing the file
 Practice lab
